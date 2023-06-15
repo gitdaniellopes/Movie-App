@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <!--    Movie Details-->
+    <string name="release_date">Lançamento</string>
+    <string name="vote_average">"Média (votos)"</string>
+    <string name="duration">Duração</string>
+
+    <string name="duration_minutes">%1$s min</string>
+    <string name="movies_similar">Filmes Similares</string>
+    <string name="description">Descrição</string>
+
+    <!--    TopBar text-->
+    <string name="popular_movies">Filmes Populares</string>
+    <string name="search_movies">Pesquisa de Filmes</string>
+    <string name="favorite_movies">Filmes Favoritos</string>
+    <string name="detail_movie">Detalhe do Filme</string>
+
+    <!--    Movie Search-->
+    <string name="search_movies_field">Pesquisar filmes</string>
+</resources>
