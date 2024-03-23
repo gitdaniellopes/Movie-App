@@ -1,8 +1,14 @@
 package br.com.movieapp.core.data.remote.model
 
+import com.google.gson.annotations.SerializedName
+
 data class ProductionCompany(
+    @SerializedName("id")
     val id: Int,
-    val logo_path: String,
+    @SerializedName("name")
     val name: String,
-    val origin_country: String
+    @SerializedName("logo_path")
+    val logoPath: String,
+    @SerializedName("origin_country")
+    val originCountry: String
 )
