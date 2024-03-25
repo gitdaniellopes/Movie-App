@@ -1,4 +1,4 @@
-package br.com.movieapp.data.core.util
+package br.com.movieapp.core.util
 
 import br.com.movieapp.BuildConfig
 
